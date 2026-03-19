@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "甘ったる",
+  "base_artist": "なきそ",
+  "createdAt": "2026-03-19T16:43:04.994889Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "甘ったる",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_甘ったる_なきそ.txt"
+    }
+  ]
+}
